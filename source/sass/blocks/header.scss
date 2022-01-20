@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  padding-top: 45px;
+  background-color: #dcdcdc;
+
+}
+
+.header__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.header__text {
+  font-size: 17px;
+}
+
+.header__contacts {
+  display: flex;
+  flex-direction: column;
+}
+
+.header__link {
+  font-size: 31px;
+  line-height: 46px;
+  font-weight: bolder;
+}

@@ -1,0 +1,41 @@
+.news {
+  width: 350px;
+  height: 100%;
+  margin-right: 60px;
+  padding: 1px 30px 33px 34px;
+  background-color: #777777;
+  color: #ffffff;
+  text-align: left;
+}
+
+.news__heading {
+  font-size: 40px;
+  line-height: 46px;
+}
+
+.news__caption {
+  margin-top: 0;
+}
+
+.news__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news__item {
+  margin-bottom: 30px;
+}
+
+.news__date {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.news__link--arh {
+  display: flex;
+  margin-top: 50px;
+  width: 100%;
+  flex-direction: row-reverse;
+  text-decoration: underline;
+}
